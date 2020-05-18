@@ -1,0 +1,12 @@
+.banner{
+   position: relative;
+   text-align: center;
+}
+
+.banner .title{
+/*   position: absolute;*/
+   color: black;
+   top: 50%;
+   left: 505;
+   transform: translate(-50%, -50%);
+}
